@@ -4,6 +4,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Prithvi%20Raj%20Thakur&fontSize=42&fontColor=ffffff"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prithvi-raj-thakur/prithvi-raj-thakur/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&center=true&width=800&lines=Frontend+Developer;Java+DSA+Enthusiast;AI+Builder;Open+Source+Learner"/>
@@ -192,10 +195,6 @@ Frontend Developer | Java DSA | AI Enthusiast
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=prithvi-raj-thakur&theme=tokyo-night&hide_border=true)
 
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prithvi-raj-thakur/prithvi-raj-thakur/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ## 🚀 Featured Projects
 
